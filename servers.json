@@ -84,4 +84,9 @@
                 "ip": "mc.cobblestone.com.tr",
                 "type": "PC"
         }
+	{
+                "name": "xbxt.xyz",
+                "ip": "xbxt.xyz",
+                "type": "PC"
+        }
 ]
