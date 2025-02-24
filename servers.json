@@ -19,6 +19,11 @@
 		"ip": "9b9t.com",
 		"type": "PC"
 	},
+	        { 
+                "name": "2b2t.com.ar",
+                "ip": "2b2t.com.ar",
+                "type": "PC"
+        },
         { 
                 "name": "phoenixanarchy.com",
                 "ip": "phoenixanarchy.com",
