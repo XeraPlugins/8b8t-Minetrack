@@ -108,5 +108,10 @@
                 "name": "mc.cloudanarchy.com.tr",
                 "ip": "mc.cloudanarchy.com.tr",
                 "type": "PC"
+        },
+	{
+                "name": "Anarchy Network",
+                "ip": "anarchynetwork.net",
+                "type": "PC"
         }
 ]
