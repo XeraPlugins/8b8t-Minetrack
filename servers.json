@@ -79,11 +79,6 @@
                 "ip": "4b4t.net",
                 "type": "PC"
         },
-        {
-                "name": "mc.cobblestone.com.tr",
-                "ip": "mc.cobblestone.com.tr",
-                "type": "PC"
-        },
 	{
                 "name": "xbxt.xyz",
                 "ip": "xbxt.xyz",
@@ -105,8 +100,8 @@
                 "type": "PC"
         },
         {
-                "name": "mc.cloudanarchy.com.tr",
-                "ip": "mc.cloudanarchy.com.tr",
+                "name": "2b2t.org.tr",
+                "ip": "2b2t.org.tr",
                 "type": "PC"
         }
 ]
