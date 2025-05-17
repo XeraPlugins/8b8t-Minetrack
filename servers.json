@@ -100,6 +100,11 @@
                 "type": "PC"
         },
 	{
+                "name": "Lord Anarchy",
+                "ip": "lordanarchy.falixsrv.me",
+                "type": "PC"
+        },
+	{
                 "name": "2b2t.com.ar",
                 "ip": "2b2t.com.ar",
                 "type": "PC"
@@ -109,9 +114,4 @@
                 "ip": "2b2t.org.tr",
                 "type": "PC"
         },
-	{
-                "name": "Anarchy Network",
-                "ip": "anarchynetwork.net",
-                "type": "PC"
-        }
 ]
