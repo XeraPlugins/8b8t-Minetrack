@@ -39,11 +39,7 @@
                 "ip": "d2s9.org",
                 "type": "PC"
         },
- 	{
-		"name": "mc.quiltanarchy.xyz",
-		"ip": "mc.quiltanarchy.xyz",
-		"type": "PC"
-	},
+ 	
  	{
 		"name": "5b5t.org",
 		"ip": "5b5t.org",
@@ -102,11 +98,6 @@
 	{
                 "name": "2b2t.com.ar",
                 "ip": "2b2t.com.ar",
-                "type": "PC"
-        },
-        {
-                "name": "2b2t.org.tr",
-                "ip": "2b2t.org.tr",
                 "type": "PC"
         },
 	{
