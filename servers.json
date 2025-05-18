@@ -118,5 +118,10 @@
                 "name":"Lord Anarchy",
                 "ip": "lordanarchy.falixsrv.me",
                 "type": "PC"
+        },
+	{
+                "name":"Pentagon.cx",
+                "ip": "pentagon.cx",
+                "type": "PC"
         }
 ]
