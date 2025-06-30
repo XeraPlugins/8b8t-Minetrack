@@ -118,5 +118,10 @@
                 "name":"Lord Anarchy",
                 "ip": "lordanarchy.falixsrv.me",
                 "type": "PC"
+        },
+	        {
+                "name":"10b10t.com",
+                "ip": "10b10t.com",
+                "type": "PC"
         }
 ]
