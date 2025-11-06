@@ -175,8 +175,18 @@
     "type": "PC"
   },
   {
-    "name": "Anarchy Network",
-    "ip": "anarchynetwork.net",
+   "name": "Anarchy Network",
+   "ip": "anarchynetwork.net",
+  "type": "PC"
+  },
+  {
+    "name": "8p8t.org",
+    "ip": "8p8t.org",
+    "type": "PC"
+  },
+  {
+    "name": "Elyusium",
+    "ip": "elyusium.org",
     "type": "PC"
   }
 ]
