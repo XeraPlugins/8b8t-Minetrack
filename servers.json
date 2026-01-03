@@ -178,5 +178,10 @@
     "name": "Anarchy Network",
     "ip": "anarchynetwork.net",
     "type": "PC"
+  },
+  {
+   "name": "nihilium.org",
+   "ip": "nihilium.org",
+   "type": "PC"
   }
 ]
