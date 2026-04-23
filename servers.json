@@ -178,5 +178,10 @@
     "name": "Anarchy Network",
     "ip": "anarchynetwork.net",
     "type": "PC"
+  },
+  {
+    "name": "ChickenCraft",
+    "ip": "chickencraft.nl",
+    "type": "PC"
   }
 ]
